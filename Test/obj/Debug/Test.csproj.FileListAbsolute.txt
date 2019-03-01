@@ -1,0 +1,15 @@
+F:\projects\c#\TruthEye\Test\bin\Debug\Test.exe.config
+F:\projects\c#\TruthEye\Test\bin\Debug\Test.exe
+F:\projects\c#\TruthEye\Test\bin\Debug\Test.pdb
+F:\projects\c#\TruthEye\Test\bin\Debug\TruthEye.dll
+F:\projects\c#\TruthEye\Test\bin\Debug\TruthEye.pdb
+F:\projects\c#\TruthEye\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\projects\c#\TruthEye\Test\obj\Debug\Test.Properties.Resources.resources
+F:\projects\c#\TruthEye\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\projects\c#\TruthEye\Test\obj\Debug\Test.exe
+F:\projects\c#\TruthEye\Test\obj\Debug\Test.pdb
+F:\projects\c#\TruthEye\Test\obj\Debug\Test.Form1.resources
+F:\projects\c#\TruthEye\Test\bin\Debug\TruthEye.xml
+F:\projects\git\TruthEye\Test\bin\Debug\Test.exe.config
+F:\projects\git\TruthEye\Test\obj\Debug\Test.exe
+F:\projects\git\TruthEye\Test\obj\Debug\Test.pdb

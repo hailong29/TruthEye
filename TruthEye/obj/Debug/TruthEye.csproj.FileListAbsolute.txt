@@ -1,0 +1,5 @@
+F:\projects\c#\TruthEye\TruthEye\bin\Debug\TruthEye.dll
+F:\projects\c#\TruthEye\TruthEye\bin\Debug\TruthEye.pdb
+F:\projects\c#\TruthEye\TruthEye\obj\Debug\TruthEye.dll
+F:\projects\c#\TruthEye\TruthEye\obj\Debug\TruthEye.pdb
+F:\projects\c#\TruthEye\TruthEye\bin\Debug\TruthEye.XML

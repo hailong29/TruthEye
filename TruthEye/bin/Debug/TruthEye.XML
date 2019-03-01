@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TruthEye</name>
+    </assembly>
+    <members>
+        <member name="T:Tool.TruthEye">
+            <summary>
+            用于对控件进行实时检测, 了解控件真实信息, 从而知道页面上bug的来源。
+            </summary>
+        </member>
+        <member name="M:Tool.TruthEye.OpenTruthEye(System.Windows.Forms.Form)">
+            <summary>
+            开启真实之眼，右键点击控件，可查看控件细节, 中键点击控件, 可查看控件的子控件
+            使用方法：在窗体的load事件中调用，推荐放在load事件的最后
+            </summary>
+            <param name="form">要监控的窗体</param>
+        </member>
+        <member name="M:Tool.TruthEye.OpenTruthEye(System.Windows.Forms.Form,System.Boolean)">
+            <summary>
+            开启真实之眼，右键点击控件，可查看控件细节, 中键点击控件, 可查看控件的子控件
+            使用方法：在窗体的load事件中调用，推荐放在load事件的最后
+            </summary>
+            <param name="form">要监控的窗体</param>
+            <param name="isRefresh">是否对后续新建的控件进行监控，默认为true</param>
+        </member>
+        <member name="M:Tool.TruthEye.ShowDetail(System.Windows.Forms.Control)">
+            <summary>
+            将控件的细节直接打印出来
+            </summary>
+            <param name="ctrl"></param>
+        </member>
+        <member name="M:Tool.TruthEye.OpenRefresh">
+            <summary>
+            打开刷新功能(5s刷新)，能看到后面的自建控件
+            </summary>
+        </member>
+        <member name="M:Tool.TruthEye.Timer_Refresh(System.Object,System.EventArgs)">
+            <summary>
+            定时刷新
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Tool.TruthEye.SetAllControlEvent(System.Windows.Forms.Control)">
+            <summary>
+            为全部控件添加事件
+            </summary>
+            <param name="CrlContainer"></param>
+        </member>
+        <member name="M:Tool.TruthEye.item_MouseDown(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            鼠标按下的事件, 用右键或中键可查看控件，当为中键时，展示子控件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+    </members>
+</doc>
